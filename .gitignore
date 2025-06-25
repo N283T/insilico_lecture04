@@ -1,4 +1,4 @@
-/.python-version
-/.venv
-/uv.lock
-/.DS_Store
+.python-version
+.venv
+uv.lock
+.DS_Store
